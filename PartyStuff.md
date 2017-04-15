@@ -1,7 +1,6 @@
-Add my list of very important party things!
+List of Things I need for my party
 
-**Play around with Markdown**
-
-### What will this header look like anyway?
-
-# What about this header?
+# Food
+# Drink
+## Sub Thing A
+## Sub Thing B
