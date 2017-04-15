@@ -6,18 +6,18 @@ But FIRST, some [intro slides](https://docs.google.com/presentation/d/1sf24kf1t9
 
 Party in PDX!
 
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
-![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
+![]:dart:
+![]:dart:
+![]:dart:
+![]:dart:
+![]:dart:
+![]:space_invader:
+![]:space_invader:
+![]:space_invader:
+![](http://i.imgur.com/11dgn.gif)
+![](http://i.imgur.com/11dgn.gif)
+![](http://i.imgur.com/11dgn.gif)
+![](http://i.imgur.com/11dgn.gif)
 ![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
 ![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
 ![](http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif)
